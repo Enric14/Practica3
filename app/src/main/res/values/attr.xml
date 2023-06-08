@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="appViewsComplejasYDinamicasH1" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasH2" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasH3" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasH4" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasH5" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasS1" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasS2" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasB2" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasBtnFilled" format="reference"/>
+    <attr name="appViewsComplejasYDinamicasILFilled" format="reference"/>
+
+</resources>

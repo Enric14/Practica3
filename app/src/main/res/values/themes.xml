@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ViewsComplejasYDinamicas" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColor</item>
+        <item name="colorOnPrimary">@color/onPrimary</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:windowBackground">@color/background</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+        <item name="appViewsComplejasYDinamicasH1">@style/TextAppearance.ViewsComplejasYDinamicas.Headline1</item>
+        <item name="appViewsComplejasYDinamicasH2">@style/TextAppearance.ViewsComplejasYDinamicas.Headline2</item>
+        <item name="appViewsComplejasYDinamicasH3">@style/TextAppearance.ViewsComplejasYDinamicas.Headline3</item>
+        <item name="appViewsComplejasYDinamicasH4">@style/TextAppearance.ViewsComplejasYDinamicas.Headline4</item>
+        <item name="appViewsComplejasYDinamicasH5">@style/TextAppearance.ViewsComplejasYDinamicas.Headline5</item>
+        <item name="appViewsComplejasYDinamicasS1">@style/TextAppearance.ViewsComplejasYDinamicas.Subtitle1</item>
+        <item name="appViewsComplejasYDinamicasS2">@style/TextAppearance.ViewsComplejasYDinamicas.Subtitle2</item>
+        <item name="appViewsComplejasYDinamicasB2">@style/TextAppearance.ViewsComplejasYDinamicas.Body2</item>
+        <item name="appViewsComplejasYDinamicasBtnFilled">@style/Button.Filled.Normal</item>
+        <item name="appViewsComplejasYDinamicasILFilled">@style/InputLayout.Filled.Normal</item>
+
+
+    </style>
+
+</resources>

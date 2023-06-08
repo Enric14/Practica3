@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViewsComplejasYDinamicas</string>
+    <string name="main_login">Login</string>
+    <string name="main_user">Login</string>
+    <string name="main_password">Password</string>
+    <string name="main_txt_btn">Login</string>
+    <string name="main_new_password">Forgot password</string>
+    <string name="main_get_new_password">Get new</string>
+    <string name="main_have_new_account">Do you have an account?</string>
+    <string name="main_create_new_account_txt">Create new</string>
+
+
+</resources>
